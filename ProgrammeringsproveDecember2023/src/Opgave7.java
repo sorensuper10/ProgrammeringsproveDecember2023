@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class Opgave7 {
+    // Opgave 7
     public static void main(String[] args) {
         Servicemedarbejder s1 = new Servicemedarbejder(1,"Søren","Hansen","Æblevej 2", "18-12-2023","1","Elektriker",100);
 

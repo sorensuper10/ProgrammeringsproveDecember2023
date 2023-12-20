@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Opgave4 {
-
+    // Opgave 4
     public static void main(String[] args) {
         int antal = 10;
         int[] a = new int[10];

@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Opgave3 {
 
     public static void main(String[] args) {
+        // Opgave 3
         int tabel[] = new int[10];
 
         Scanner input = new Scanner(System.in);
